@@ -1,0 +1,6 @@
+{
+  "name": "VitaTrack - Asistente de Hábitos",
+  "description": "Asistente inteligente personal para el seguimiento, balance empático y optimización de hábitos diarios sin juicios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
